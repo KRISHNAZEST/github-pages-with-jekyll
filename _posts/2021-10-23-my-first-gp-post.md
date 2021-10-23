@@ -1,2 +1,2 @@
-title : "HUM-FIRST"
-date : 2021-10-23
+title: "HUM-FIRST"
+date: 2021-10-23
