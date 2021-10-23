@@ -1,2 +1,4 @@
-title: "HUM"
-date: 2021-10-23
+---
+title: "Your hum first post title"
+date: YYYY-MM-DD
+---
